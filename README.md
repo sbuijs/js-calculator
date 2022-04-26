@@ -11,7 +11,7 @@ Simple calculator<br/>
 <br/>
 <br/>
 
-<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
+<img width="1552" alt="Screenshot 2022-04-26 at 20 57 29" src="https://user-images.githubusercontent.com/1607627/165372457-510671f0-8db2-44bd-b000-634d6ed7f6a9.png">
 
 ## Built With
 - Vanilla Javascript
